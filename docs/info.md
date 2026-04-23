@@ -9,12 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Live or die game.
 
 ## How to test
 
-Explain how to use your project
+Place the trap with the dipswitch and Load it to the Flip Flops.
+Another has to find out the traps and press check.
+If the red LED goes on you are dead.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED's, DIP Switch, Resistors and Push Buttons.
